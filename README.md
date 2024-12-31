@@ -3,6 +3,7 @@ Microsoft Kusto Query Language
 
 ## Documentation
 - https://learn.microsoft.com/en-us/kusto/query/?view=azure-data-explorer
+- https://learn.microsoft.com/en-us/kusto/query/kql-learning-resources?view=microsoft-fabric
 - https://aka.ms/MustLearnKQL
 
 ## Cheat Sheet
